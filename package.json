@@ -7,8 +7,5 @@
     "name": "danyadev",
     "email": "danyadev@mail.ru"
   },
-  "license": "Apache-2.0",
-  "peerDependencies": {
-    "vue-template-compiler": "^2.6.10"
-  }
+  "license": "Apache-2.0"
 }

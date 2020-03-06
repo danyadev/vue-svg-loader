@@ -1,3 +1,4 @@
+/*
 const { compile } = require('vue-template-compiler');
 
 function transformChildren(value) {
@@ -85,4 +86,10 @@ module.exports = (result) => {
       }
     }
   `;
+}
+*/
+
+module.exports = function(result) {
+  console.log(result);
+  return result;
 }
