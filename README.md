@@ -7,7 +7,7 @@ __Данная версия работает только для Vue `3.0`__.
 ## Установка
 
 ```bash
-$ npm i -D danyadev/vue-svg-loader#next
+$ yarn add -D danyadev/vue-svg-loader#next
 ```
 
 ## Подключение
